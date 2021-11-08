@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi I am Maximiliano Olivera! 👋
+Full-Stack Developer at DualBootPartners
 
-<!--
-**maxioliverasilva13/maxioliverasilva13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```javascript
+const maxioliverasilva13 = {
+  pronouns: "she" | "her",
+  Lenguages: [Javascript, Typescript , C++ ,Dart , VB.net , C# , Rescript , ],
+  FrameWorks: [React, Node, Jest, Flutter , Tailwind , Boostrap , SASS , Redux , RTKQuery , NextJs , Context ,  ],
+}
+```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxioliverasilva13&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|Github Statistics|Streaks|Languages|
+|-|-|-|
+|[![Arnab's github stats](https://github-readme-stats.vercel.app/api?username=maxioliverasilva13&show_icons=true&theme=dark&hide_title=true)](https://github.com/maxioliverasilva13)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=maxioliverasilva13&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxioliverasilva13&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/maxioliverasilva13)
+
+- 📫 Cómo contactarme: [Linkedin](https://www.linkedin.com/in/maxisilva13/) [![LinkedIn](https://avatars.githubusercontent.com/u/357098?s=26&v=4)](https://www.linkedin.com/in/MartinCoimbra/)
