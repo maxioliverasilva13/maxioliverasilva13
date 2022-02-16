@@ -6,7 +6,7 @@ Full-Stack Developer at DualBootPartners
 const maxioliverasilva13 = {
   pronouns: "she" | "her",
   Lenguages: [Javascript, Typescript , C++ ,Dart , VB.net , C# , Rescript , ],
-  FrameWorks: [React, Node, Jest, Flutter , Tailwind , Boostrap , SASS , Redux , RTKQuery , NextJs , Context ,  ],
+  FrameWorks: [React, Node, Jest, Flutter , Tailwind , Boostrap , SASS , Redux , RTKQuery , NextJs , Context , Jest ],
 }
 ```
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxioliverasilva13&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
