@@ -5,7 +5,7 @@ Full-Stack Developer at DualBootPartners
 ```javascript
 const maxioliverasilva13 = {
   pronouns: "He" | "Simax27",
-  Lenguages: [Javascript, Typescript , C++ ,Dart , VB.net , C# , Rescript , ],
+  Lenguages: [Javascript, Typescript , C++ ,Dart , VB.net , C# , Rescript , React Native],
   FrameWorks: [React, Node, Jest, Flutter , Tailwind , Boostrap , SASS , Redux , RTKQuery , NextJs , Context , Jest ],
 }
 ```
