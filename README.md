@@ -15,4 +15,4 @@ const maxioliverasilva13 = {
 |-|-|-|
 |[![Arnab's github stats](https://github-readme-stats.vercel.app/api?username=maxioliverasilva13&show_icons=true&theme=dark&hide_title=true)](https://github.com/maxioliverasilva13)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=maxioliverasilva13&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxioliverasilva13&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/maxioliverasilva13)
 
-- 📫 Cómo contactarme: [Linkedin](https://www.linkedin.com/in/maxisilva13/) [![LinkedIn](https://avatars.githubusercontent.com/u/357098?s=26&v=4)]
+- 📫 How Contact Me?: [Linkedin](https://www.linkedin.com/in/maxisilva13/) [![LinkedIn](https://avatars.githubusercontent.com/u/357098?s=26&v=4)]
